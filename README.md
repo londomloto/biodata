@@ -1,4 +1,4 @@
 # Biodata
 
-Nama: **Roso Sasongko**
-TTL: **Banyumas, ....**
+- Nama: **Roso Sasongko**
+- TTL: **Banyumas, ....**
